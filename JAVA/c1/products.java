@@ -26,8 +26,8 @@ System.out.println("product 3 with cost "+ p3 + " is of the lowest price");
 }
 }
 public static void main(String[] args){
-System.out.println("SANUP");
-System.out.println("SJC22MCA-2048");
+System.out.println("ANILMON J");
+System.out.println("SJC22MCA-2006");
 System.out.println("24-03-2023");
 Product obj1 = new Product();
 Product obj2 = new Product();
